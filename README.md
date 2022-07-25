@@ -5,4 +5,4 @@
 
 
 <p align="center">
-  <img src="https://github.com/Dima-Kaddah/mern-CalculationApp/blob/master/client/src/images/REDME-IMAGES/homepage.jpg" width="800"/></p>
+  <img src="https://github.com/Dima-Kaddah/Pomodoro-Clock/blob/master/Pomodoro%20Clock6.png" width="800"/></p>
